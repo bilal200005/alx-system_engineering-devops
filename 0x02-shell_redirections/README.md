@@ -1,0 +1,1 @@
+this is shell redirection file which focus on stdin stdout and stderr
